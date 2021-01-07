@@ -7,11 +7,7 @@ console.log("yes");
   return (
     <SafeAreaView style={styles.container}>
      
-      <View style={{
-        backgroundColor:"dodgerblue",
-        width: '100%',
-        height:'30%',
-      }}></View>
+    
     </SafeAreaView>
   );
 }
